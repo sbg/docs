@@ -1,6 +1,8 @@
 # Getting Started with Docker 
 ![Docker logo](https://secure.gravatar.com/avatar/26da7b36ff8bb5db4211400358dc7c4e.jpg?s=128&r=g&d=mm)
 
+In this repo, you will find a series of guides and examples on how to use Docker. These include building custom containers for specific programming use cases (e.g. Python, Bioconductor). 
+
 ## What is Docker?
 [Docker](http://www.docker.com) is an open-source software that allows users to deploy software in discrete, lightweight runtime environments, called “containers.” Essentially, it means that any software can be containerized with its own unique requirements/dependencies and deployed on any infrastructure that supports Docker. This includes your laptop, certain computing clusters, and cloud platforms such as Seven Bridges. Using Docker makes your code portable -- easily sharable with others and runnable in many places. 
 
