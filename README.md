@@ -1,6 +1,9 @@
-# docs
-This repository contains supplementary resources for documentation for Seven Bridges products.
+# Documentation: Supplementary Resources
 
-Documentation for the Seven Bridges Platform is [available here](http://docs.sevenbridges.com/).
+This repository contains supplementary documentation resources for Seven Bridges products.
 
-Documentation for the Cancer Genomics Cloud is [available here](http://docs.cancergenomicscloud.org/)
+Documentation websites:
+* [Seven Bridges Platform Knowledge Center](https://docs.sevenbridges.com/)
+* [Cancer Genomics Cloud (CGC) Knowledge Center](http://docs.cancergenomicscloud.org/)
+* [Cavatica Knowledge Center](http://docs.cavatica.org)
+* [BioData Catalyst powered by Seven Bridges](https://sb-biodatacatalyst.readme.io/)
